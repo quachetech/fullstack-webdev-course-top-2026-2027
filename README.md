@@ -12,7 +12,7 @@ Building the technical foundation for my **Biorhythmic Productivity Systems (BPS
 **[190-Day Challenge →](./01-foundations/)**
 
 - **Status:** 🚧 Day 1 of 190
-- **Start Date:** [Today's Date]
+- **Start Date:** 28 March 2026
 - **Focus:** HTML, CSS, JavaScript, Git, CLI fundamentals
 - **Methodology:** Feynman Technique + Daily Documentation + Building in Public
 
@@ -50,10 +50,10 @@ Master full stack web development to build the tech infrastructure for **Biorhyt
 
 ## 🔗 Connect
 
-- **LinkedIn:** [Your Link]
-- **YouTube:** [Your Link]
+- **LinkedIn:** [Kuda M'ndau](https://www.linkedin.com/in/kuda-mndau/)
+- **YouTube:** [Elevate & Excel](https://www.youtube.com/@elevatenexcelHP)
 - **Follow:** #190DaysTOPFoundations
 
 ---
-
+ 
 **Let's build. 🚀**
