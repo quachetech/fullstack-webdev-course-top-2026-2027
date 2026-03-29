@@ -22,11 +22,11 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 
 ## 📊 Progress Tracker
 
-| Day | Date    | Topic           | Concept Explained | Project Worked On | Status |
-|-----|---------|-----------------|-------------------|-------------------|--------|
-| 000 | 28/3/26 | Challenge Launch & Set Up| ✅ Current Page   | - | ✅ |
-| 001 | [Date]  | What is Web Development | 📌 [Link to concept] | - | 📌 |
-| 002 | [Date]  | How Does The Web Work     | 📌 [Link to concept] | Landing Page | 📌 |
+| Day | Date     | Topic           | Concept Explained | Project Worked On | Status |
+|-----|----------|-----------------|-------------------|-------------------|--------|
+| 000 | 28/03/26 | Challenge Launch & Set Up| ✅ Current Page   | - | ✅ |
+| 001 | 29/03/26 | Introduction to Web Development | ✅ [Link to concept] | - | ✅ |
+| 002 | [Date]  | Asking For Help    | 📌 [Link to concept] | Landing Page | 📌 |
 | 003 | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -39,7 +39,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 
 ## 🧠 Key Concepts Mastered
 
-- [CLI Fundamentals](./concepts/cli-basics.md)
+- [Introduction to Web Development](./concepts/introduction-to-web-development.md)
 - [Git & GitHub](./concepts/git-fundamentals.md)
 - [HTML Semantics](./concepts/html-semantics.md)
 - [CSS Flexbox](./concepts/css-flexbox.md)
@@ -59,10 +59,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 
 ## 📹 YouTube Explanations
 
-- [Day 1: What is the Command Line?](YouTube-link)
-- [Day 5: Git vs GitHub Explained](YouTube-link)
-- [Day 10: CSS Flexbox in 10 Minutes](YouTube-link)
-- *(These are placeholders to be updated once videos are available)*
+- [Day 1: Introduction to Web Development](https://youtu.be/ivUAwME_bN0)
 
 ---
 
@@ -74,9 +71,8 @@ See [daily-log/](./daily-log/) folder for day-by-day updates.
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn]
-- **YouTube:** [Your Channel]
-- **Twitter/X:** [If you have one]
+- **LinkedIn:** [Kuda M'ndau](https://www.linkedin.com/in/kuda-mndau/)
+- **YouTube:** [Elevate & Excel](https://www.youtube.com/@elevatenexcelHP)
 
 ---
 
