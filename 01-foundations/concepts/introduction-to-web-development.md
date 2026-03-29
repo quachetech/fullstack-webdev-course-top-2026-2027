@@ -32,7 +32,7 @@ Understanding the different parts of a website and how they contribute to it's f
 - A chef running a restaurant knows that a consistant & constant supply of fresh & high quality ingredients is a must, & ensures to source only from farmers who can deliver fresh & high quality produce no matter the demand.
 - Good back end development should ensure that there is capacity for front end to continue delivering smooth & seamless user experience by ensuring that the program data is stored & served with full capacity for millions of users.
 
-<*### Example:*>
+### Example:
 
 
 ---
@@ -44,14 +44,14 @@ Understanding the different parts of a website and how they contribute to it's f
 
 ---
 
-<*## 📌 Common Mistakes*>
+## 📌 Common Mistakes
 
 
 ---
 
 ## 🚀 Next Steps
 
-How Does The Web Work
+Asking For Help
 
 ---
 
