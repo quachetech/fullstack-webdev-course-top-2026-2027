@@ -25,8 +25,8 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | Day | Date     | Topic           | Concept Explained | Project Worked On | Status |
 |-----|----------|-----------------|-------------------|-------------------|--------|
 | 000 | 28/03/26 | Challenge Launch & Set Up| ✅ Current Page   | - | ✅ |
-| 001 | 29/03/26 | Introduction to Web Development | ✅ [Link to concept] | - | ✅ |
-| 002 | [Date]  | Asking For Help    | 📌 [Link to concept] | Landing Page | 📌 |
+| 001 | 29/03/26 | Introduction to Web Development | ✅ [./concepts/introduction-to-web-development.md] | - | ✅ |
+| 002 | 30/03/26 | Asking For Help    | ✅[./concepts/asking-for-help.md] | - | ✅ |
 | 003 | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -40,7 +40,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 ## 🧠 Key Concepts Mastered
 
 - [Introduction to Web Development](./concepts/introduction-to-web-development.md)
-- [Git & GitHub](./concepts/git-fundamentals.md)
+- [Asking For Help](./concepts/asking-for-help.md)
 - [HTML Semantics](./concepts/html-semantics.md)
 - [CSS Flexbox](./concepts/css-flexbox.md)
 - [JavaScript Functions](./concepts/javascript-functions.md)  
