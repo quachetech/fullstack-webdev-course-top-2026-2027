@@ -94,7 +94,6 @@ Solution: Host headers (the server checks which domain name you requested—bake
 ## 🔗 Key Terms
 
 - **Internet** Infrastructure that enables computer dvevices to connect, communicate and share information with each ither.
-- **Term 2:** Definition
 
 ---
 
