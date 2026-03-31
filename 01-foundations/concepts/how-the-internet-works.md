@@ -1,7 +1,7 @@
 # How The Internet Works
 
 **Date Learned:** 31 March 2026  
-**Related Lesson:** [How Does The Web Work]()  
+**Related Lesson:** [How Does The Web Work](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)  
 **YouTube Explanation:** [Day 3: How The Internet Works](https://youtu.be/m0UeSgzwFBg)
 
 ---
