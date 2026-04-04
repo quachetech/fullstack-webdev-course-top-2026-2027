@@ -2,7 +2,7 @@
 
 **Challenge Start Date:** 28 March 2026  
 **Challenge End Date:** 4 October 2026  
-**Current Streak:** 🔥 6 days
+**Current Streak:** 🔥 7 days
 
 ---
 
@@ -31,6 +31,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 004 | 01/04/26 | Browsing The Web | ✅(./concepts/browsing-the-web.md) | - | 🚧 |
 | 005 | 02/04/26 | Browsing The Web: Webpages & URLs | ✅(./concepts/browsing-the-web-webpage.md) | - | 🚧  |
 | 006 | 03/04/26 | Websites, Web Servers & Search Engines | ✅(./concepts/websites-web-servers-search-engines.md) | - | 🚧  |
+| 007 | 04/04/26 | How The Web Works | ✅(./concepts/how-the-web-works.md) | - | 🚧 |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -48,7 +49,8 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [How The Interet Works](./concepts/how-the-internet-works.md)
 - [Browsing The Web](./concepts/browsing-the-web.md)
 - [Browsing The Web: Webpages & URLs](./concepts/browsing-the-web-webpage.md)
-- [Websites, Web Servers & Search Engines](concepts/websites-web-servers-search-engines.md)  
+- [Websites, Web Servers & Search Engines](concepts/websites-web-servers-search-engines.md)
+- [How The Web Works](./concepts/how-the-web-works.md)  
 - [...](./concepts/xxx.md)
 
 ---
@@ -67,9 +69,10 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Day 1: Introduction to Web Development](https://youtu.be/ivUAwME_bN0)
 - [Day 2: Asking For Help](https://youtu.be/PF6qai_blFk)
 - [Day 3: How The Internet Works](https://youtu.be/m0UeSgzwFBg)
-- [Day 4: Browsin The Web](https://youtu.be/Ea57yNQ6F9s)
+- [Day 4: Browsing The Web](https://youtu.be/Ea57yNQ6F9s)
 - [Day 5: Webpages & URLs](https://youtu.be/)
 - [Day 6: Websites, Web Servers & Search Engines](https://youtu.be/)
+- [Day 7: How The Web Works](https://youtu.be/)
 - [Day : xxx](https://youtu.be/)
 ---
 
