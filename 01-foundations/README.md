@@ -1,8 +1,8 @@
 # 190 Days of The Odin Project Foundations
 
 **Challenge Start Date:** 28 March 2026  
-**Challenge End Date:** 4 October 2026  
-**Current Streak:** 🔥 7 days
+**Challenge End Date:** 5 October 2026  
+**Current Streak:** 🔥 8 days
 
 ---
 
@@ -32,6 +32,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 005 | 02/04/26 | Browsing The Web: Webpages & URLs | ✅(./concepts/browsing-the-web-webpage.md) | - | 🚧  |
 | 006 | 03/04/26 | Websites, Web Servers & Search Engines | ✅(./concepts/websites-web-servers-search-engines.md) | - | 🚧  |
 | 007 | 04/04/26 | How The Web Works | ✅(./concepts/how-the-web-works.md) | - | 🚧 |
+| 008 | 05/04/26 | Systems Thinking - How The Web Works | ✅(./concepts/systems-thinking-webdev.md) | - | 🚧 |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -50,7 +51,8 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Browsing The Web](./concepts/browsing-the-web.md)
 - [Browsing The Web: Webpages & URLs](./concepts/browsing-the-web-webpage.md)
 - [Websites, Web Servers & Search Engines](concepts/websites-web-servers-search-engines.md)
-- [How The Web Works](./concepts/how-the-web-works.md)  
+- [How The Web Works](./concepts/how-the-web-works.md) 
+- [Systems Thinking - How The Web Works](./concepts/systems-thinking-webdev.md)  
 - [...](./concepts/xxx.md)
 
 ---
