@@ -2,7 +2,7 @@
 
 **Challenge Start Date:** 28 March 2026  
 **Challenge End Date:** 5 October 2026  
-**Current Streak:** 🔥 8 days
+**Current Streak:** 🔥 9 days
 
 ---
 
@@ -33,6 +33,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 006 | 03/04/26 | Websites, Web Servers & Search Engines | ✅(./concepts/websites-web-servers-search-engines.md) | - | 🚧  |
 | 007 | 04/04/26 | How The Web Works | ✅(./concepts/how-the-web-works.md) | - | 🚧 |
 | 008 | 05/04/26 | Systems Thinking - How The Web Works | ✅(./concepts/systems-thinking-webdev.md) | - | 🚧 |
+| 009 | 06/04/26 | How The Web Works: A Deepdive | ✅(./concepts/deepdive-how-the-web-works.md) | - | 🚧 |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -53,6 +54,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Websites, Web Servers & Search Engines](concepts/websites-web-servers-search-engines.md)
 - [How The Web Works](./concepts/how-the-web-works.md) 
 - [Systems Thinking - How The Web Works](./concepts/systems-thinking-webdev.md)  
+- [How The Web Works: A Deepdive](./concepts/deepdive-how-the-web-works.md)
 - [...](./concepts/xxx.md)
 
 ---
