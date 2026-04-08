@@ -1,6 +1,6 @@
-# How the Web Woeepdive
+# How the Web Works Deepdive
 
-**Date Learned:** 06 April 2026  
+**Date Learned:** 06 & 07 April 2026  
 **Related Lesson:** [How Does The web Work](https://theodinproject.com/lessons/foundations-how-does-the-web-work) 
 **YouTube Explanation:** [How the Web Works, A Deepdive]()
 
