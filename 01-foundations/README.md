@@ -2,7 +2,7 @@
 
 **Challenge Start Date:** 28 March 2026  
 **Challenge End Date:** 5 October 2026  
-**Current Streak:** 🔥 11 days
+**Current Streak:** 🔥 13 days
 
 ---
 
@@ -36,7 +36,8 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 009 | 06/04/26 | How The Web Works: A Deepdive | ✅(./concepts/deepdive-how-the-web-works.md) | - | 🚧 |
 | 010 | 06/04/26 | How The Web Works: A Deepdive | ✅(./concepts/deepdive-how-the-web-works.md) | - | 🚧 |
 | 011 | 08/04/26 | How The Web Works: Recap | ✅(./concepts/recap-how-the-web-works.md) | - | ✅ |
-| 011 | 08/04/26 | Command Line Basics | ✅(./concepts/command-line-basics.md) | - | 🚧 |
+| 012 | 09/04/26 | Command Line Basics | ✅(./concepts/command-line-basics.md) | - | 🚧 |
+| 013 | 10/04/26 | A Deepdive into Command Line Basics | ✅(./concepts/CLI-deepdive.md) | - | 🚧 |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -60,6 +61,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [How The Web Works: A Deepdive](./concepts/deepdive-how-the-web-works.md)
 - [How The Web Works: Recap](./concepts/recap-how-the-web-works.md)
 - [Command Line Basics](./concepts/command-line-basics.md)
+- [A Deepdive into Command Line Basics](./concepts/CLI-deepdive.md)
 - [...](./concepts/xxx.md)
 
 ---
