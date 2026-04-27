@@ -38,6 +38,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 011 | 08/04/26 | How The Web Works: Recap | ✅(./concepts/recap-how-the-web-works.md) | - | ✅ |
 | 012 | 09/04/26 | Command Line Basics | ✅(./concepts/command-line-basics.md) | - | 🚧 |
 | 013 | 10/04/26 | A Deepdive into Command Line Basics | ✅(./concepts/CLI-deepdive.md) | - | 🚧 |
+| 031 | 27/04/26 | Working With Files | ✅(./concepts/working-with-files.md) | - | 🚧 |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -62,6 +63,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [How The Web Works: Recap](./concepts/recap-how-the-web-works.md)
 - [Command Line Basics](./concepts/command-line-basics.md)
 - [A Deepdive into Command Line Basics](./concepts/CLI-deepdive.md)
+- [Working With Files](./concepts/working-with-files.md)
 - [...](./concepts/xxx.md)
 
 ---
