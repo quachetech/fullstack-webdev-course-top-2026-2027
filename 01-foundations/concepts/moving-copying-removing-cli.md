@@ -47,7 +47,8 @@ Today covered the three essential file manipulation commands: mv, cp, and rm. Th
 The `-i` flag is available on both `mv` and `rm` and does the same thing on both — it inserts a confirmation step before the irreversible action executes. This is a small habit that can prevent significant data loss, especially when working quickly or using wildcards. The command line trusts you to know what you're doing. The `-i` flag is how you double-check yourself.
 
 ## 📊 Quick Reference
-|Command|What it does
+|Command|What it does|
+|-------|-------------|
 |mv <file> <new-name>|Rename a file|
 |mv <file> <path/>|Move a file|
 |mv -i|Ask before overwriting|
