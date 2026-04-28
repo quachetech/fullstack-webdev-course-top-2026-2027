@@ -39,6 +39,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 012 | 09/04/26 | Command Line Basics | ✅(./concepts/command-line-basics.md) | - | 🚧 |
 | 013 | 10/04/26 | A Deepdive into Command Line Basics | ✅(./concepts/CLI-deepdive.md) | - | 🚧 |
 | 031 | 27/04/26 | Working With Files | ✅(./concepts/working-with-files.md) | - | 🚧 |
+| 032 | 28/04/26 | Moving, Copying & Removing Files in Command Line | ✅(./concepts/moving-copying-removing-cli.md) | - | 🚧 |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -64,6 +65,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Command Line Basics](./concepts/command-line-basics.md)
 - [A Deepdive into Command Line Basics](./concepts/CLI-deepdive.md)
 - [Working With Files](./concepts/working-with-files.md)
+- [Moving, Copying & Removing Files in Command Line](./concepts/moving-copying-removing-cli.md)
 - [...](./concepts/xxx.md)
 
 ---
