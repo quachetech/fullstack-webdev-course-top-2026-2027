@@ -42,6 +42,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 032 | 28/04/26 | Moving, Copying & Removing Files in Command Line | ✅(./concepts/moving-copying-removing-cli.md) | - | 🚧 |
 | 033 | 28/04/26 | Operations With Multiple Files & Directories | ✅(./concepts/wildcards-cli.md) | - | ✅ |
 | 052 | 18/05/26 | Introduction to Git | ✅(./concept/intro-to-git.md) | - | ✅ |
+| 056 | 22/05/26 | Git Basics | ✅(./concepts/git-basics.md) | - | ✅ |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -70,6 +71,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Moving, Copying & Removing Files in Command Line](./concepts/moving-copying-removing-cli.md)
 - [Operations With Multiple Files & Directories](./concepts/wildcards-cli.md)
 - [Introduction to Git](./concepts/intro-to-git.md)
+- [Git Basics](./concepts/git-basics.md)
 - [...](./concepts/xxx.md)
 
 ---
