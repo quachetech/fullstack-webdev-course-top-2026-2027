@@ -1,6 +1,11 @@
-# Day 52 - [Date]
+# Introduction to Git — Version Control Systems
 
-## 📚 What I Learned Today
+**Date Learned:** 18 May 2026  
+**Related Lesson:** [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
+
+---
+
+## 🎯 What Is This?
 Introduction to Git — Version Control Systems
 
 ### 🗂️ What is Version Control?
@@ -63,13 +68,19 @@ When something goes wrong after an update — and eventually something always do
 For solo projects this is valuable. For collaborative projects it's essential — every change is attributed, documented, and reversible.
 The bigger picture: Git isn't just a development tool. It's a maintenance tool, a safety net, and an audit trail for the entire life of a project from first commit to final update.
 
+---
 
 ## 💡 Key Insight
 The progression from local → centralized → distributed version control mirrors a broader engineering principle: eliminate single points of failure. A local VCS fails if your computer dies. A centralized VCS fails if the server dies. A distributed VCS survives either scenario because the project exists in multiple places simultaneously. Git's architecture isn't just convenient — it's resilient by design.
 This also reframes what I've been doing since Day 1. Every git commit and git push isn't just saving work — it's creating a distributed, timestamped, recoverable history of an entire project's evolution. The daily commits to GitHub aren't just for the green graph. They're version control working exactly as intended.
 
-**Time spent:** 45 minutes
-**Status:** ✅ Day 52 Complete — Introduction to Git
+---
 
-## 🔗 Connection to Previous Learning
-Day 1 of this challenge was almost entirely a debugging session involving Git — SSH keys, remote repositories, pushing to GitHub. At the time I was using the tool before understanding it. Today's lesson gives the conceptual foundation for everything I've been doing since Day 1. The tool makes complete sense now.
+## 🚀 Next Steps
+
+Git Basics
+
+---
+
+**Feynman Test:** Can I explain this to someone with zero coding knowledge?  
+✅ Yes 
