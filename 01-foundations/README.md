@@ -2,7 +2,7 @@
 
 **Challenge Start Date:** 28 March 2026  
 **Challenge End Date:** 5 October 2026  
-**Current Streak:** 🔥 34 days
+**Current Streak:** 🔥 56 days
 
 ---
 
@@ -41,6 +41,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 031 | 27/04/26 | Working With Files | ✅(./concepts/working-with-files.md) | - | 🚧 |
 | 032 | 28/04/26 | Moving, Copying & Removing Files in Command Line | ✅(./concepts/moving-copying-removing-cli.md) | - | 🚧 |
 | 033 | 28/04/26 | Operations With Multiple Files & Directories | ✅(./concepts/wildcards-cli.md) | - | ✅ |
+| 052 | 18/05/26 | Introduction to Git | ✅(./concept/intro-to-git.md) | - | ✅ |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -68,6 +69,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Working With Files](./concepts/working-with-files.md)
 - [Moving, Copying & Removing Files in Command Line](./concepts/moving-copying-removing-cli.md)
 - [Operations With Multiple Files & Directories](./concepts/wildcards-cli.md)
+- [Introduction to Git](./concepts/intro-to-git.md)
 - [...](./concepts/xxx.md)
 
 ---
