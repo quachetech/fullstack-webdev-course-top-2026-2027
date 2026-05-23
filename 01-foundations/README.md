@@ -2,7 +2,7 @@
 
 **Challenge Start Date:** 28 March 2026  
 **Challenge End Date:** 5 October 2026  
-**Current Streak:** 🔥 56 days
+**Current Streak:** 🔥 57 days
 
 ---
 
@@ -44,6 +44,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 052 | 18/05/26 | Introduction to Git | ✅(./concept/intro-to-git.md) | - | ✅ |
 | 056 | 22/05/26 | Git Basics | ✅(./concepts/git-basics.md) | - | ✅ |
 | 057 | 23/05/26 | HTML & CSS Basics | ✅(./concepts/html-css-basics.md) | - | ✅ |
+| 057 | 23/05/26 | Elements & Tags | ✅(./concepts/html-elements-and-tags.md) | - | ✅ |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -74,6 +75,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Introduction to Git](./concepts/intro-to-git.md)
 - [Git Basics](./concepts/git-basics.md)
 - [HTML & CSS Basics](./concepts/html-css-basics.md)
+- [Elements & Tags](./concepts/html-elements-and-tags.md)
 - [...](./concepts/xxx.md)
 
 ---
