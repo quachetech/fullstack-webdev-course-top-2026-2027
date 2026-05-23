@@ -43,6 +43,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 033 | 28/04/26 | Operations With Multiple Files & Directories | ✅(./concepts/wildcards-cli.md) | - | ✅ |
 | 052 | 18/05/26 | Introduction to Git | ✅(./concept/intro-to-git.md) | - | ✅ |
 | 056 | 22/05/26 | Git Basics | ✅(./concepts/git-basics.md) | - | ✅ |
+| 057 | 23/05/26 | HTML & CSS Basics | ✅(./concepts/html-css-basics.md) | - | ✅ |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -72,6 +73,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Operations With Multiple Files & Directories](./concepts/wildcards-cli.md)
 - [Introduction to Git](./concepts/intro-to-git.md)
 - [Git Basics](./concepts/git-basics.md)
+- [HTML & CSS Basics](./concepts/html-css-basics.md)
 - [...](./concepts/xxx.md)
 
 ---
