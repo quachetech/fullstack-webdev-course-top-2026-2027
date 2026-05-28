@@ -1,6 +1,6 @@
 # Concept Note: Lists
-**#190DaysTOPFoundations — Day 62**
-*Foundations Course | HTML & CSS Module*
+**Date:** 28 May 2026
+**Related Lesson:** [Lists](https://www.theodinproject.com/lessons/foundations-lists)
 
 ---
 
