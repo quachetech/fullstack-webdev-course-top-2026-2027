@@ -46,6 +46,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 057 | 23/05/26 | HTML & CSS Basics | ✅(./concepts/html-css-basics.md) | - | ✅ |
 | 057 | 23/05/26 | Elements & Tags | ✅(./concepts/html-elements-and-tags.md) | - | ✅ |
 | 061 | 27/05/26 | HTML Boilerplate | ✅(./concept/html-boilerplate.md) | ✅(./practicals/html/html-boilerplate/index.html) | ✅ |
+| 062 | 28/05/26 | Working With Text | ✅(./concept/working-with-text.md) | - | ✅ |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -78,6 +79,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [HTML & CSS Basics](./concepts/html-css-basics.md)
 - [Elements & Tags](./concepts/html-elements-and-tags.md)
 - [HTML Boilerplate](./concepts/html-boilerplate.md)
+- [Working With Text](./concepts/working-with-text.md)
 - [...](./concepts/xxx.md)
 
 ---
