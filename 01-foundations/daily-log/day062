@@ -1,0 +1,140 @@
+# Day 62 - 28 May 2026
+
+## 📚 What I Learned Today
+
+### Working With Text + Lists
+
+Two lessons completed today covering HTML text elements and list structures —
+the building blocks for organising and presenting the majority of content
+found on the web.
+
+**Lessons completed:**
+- Working With Text
+- Lists
+
+**Reference concept notes:**
+- `concepts/html-working-with-text.md`
+- `concepts/html-lists.md`
+
+---
+
+## 📖 Summary of Learning
+
+### Working With Text
+
+Without HTML text elements, content placed directly into `<body>` collapses
+into a single unformatted block — unreadable and impossible to organise. Text
+elements solve this by giving content structure, hierarchy, and semantic meaning.
+
+**Elements covered:**
+
+| Element | Purpose |
+|---|---|
+| `<p>` | Wraps text into a paragraph |
+| `<h1>` – `<h6>` | Six levels of headings, largest to smallest |
+| `<strong>` | Bold text — also semantically marks content as important |
+| `<em>` | Italic text — also semantically places emphasis on content |
+
+The `<strong>` and `<em>` elements carry semantic weight beyond their visual
+effect, improving accessibility for users relying on assistive technologies.
+
+**Nesting and relationships:** Elements nested within one another form
+parent-child relationships. Elements at the same level are siblings. Indenting
+nested elements is best practice for readability. The same structural logic
+from the boilerplate (`<html>` containing `<head>` and `<body>`) applies
+throughout all HTML documents.
+
+**HTML comments** `<!-- like this -->` are invisible to the browser and used
+to annotate code for context. VS Code shortcut: `Ctrl + /`.
+
+**VS Code tip:** Typing `lorem` and pressing `Enter` generates Lorem Ipsum
+placeholder text.
+
+---
+
+### Lists
+
+HTML provides two list types for the two fundamental ways items can relate
+to each other — with or without meaningful sequence.
+
+**Unordered list** `<ul>` — for items where order does not matter (bulleted):
+
+```html
+<ul>
+    <li>Item one</li>
+    <li>Item two</li>
+    <li>Item three</li>
+</ul>
+```
+
+**Ordered list** `<ol>` — for items where order matters (numbered):
+
+```html
+<ol>
+    <li>Step one</li>
+    <li>Step two</li>
+    <li>Step three</li>
+</ol>
+```
+
+Both use `<li>` to wrap individual items. The choice between `<ul>` and `<ol>`
+is semantic — it communicates the nature of the content, not just its
+appearance.
+
+---
+
+## 💡 Key Insights
+
+**Semantics over appearance.** Both `<strong>`/`<em>` and `<ul>`/`<ol>` make
+the same point from different angles: the element chosen should reflect the
+meaning of the content, not just how it should look. CSS can make anything
+look bold, italic, bulleted, or numbered — but only the correct semantic
+element communicates the meaning to the browser, search engines, and assistive
+technologies.
+
+**Nesting is consistent.** The parent-child-sibling relationships introduced
+in the boilerplate apply uniformly throughout HTML. Lists follow the same
+logic — `<ul>` or `<ol>` is the parent, `<li>` elements are the children.
+The pattern does not change, only the elements involved.
+
+---
+
+## 🎯 Objectives Met
+
+✅ Understand why HTML text elements are necessary  
+✅ Use `<p>` to create paragraphs  
+✅ Use `<h1>` through `<h6>` to create heading hierarchy  
+✅ Use `<strong>` and `<em>` as semantic text elements  
+✅ Understand parent-child and sibling element relationships  
+✅ Write and use HTML comments  
+✅ Use `<ul>`, `<ol>`, and `<li>` to build both list types  
+✅ Understand when to choose ordered vs unordered lists  
+
+---
+
+## ⏳ Pending
+
+**Lists Assignment** — Four lists to be built in a new HTML document and
+committed to GitHub tomorrow:
+1. Unordered shopping list of favourite foods
+2. Ordered to-do list for today
+3. Unordered list of places to visit someday
+4. Ordered top 5 favourite movies
+
+---
+
+**Time spent:** 50 minutes
+**Status:** 🚧 Day 62 In Progress — Lessons complete, assignment pending
+
+---
+
+## 🔗 Connections
+
+**Day 61 (HTML Boilerplate):** Every text element and list from today lives
+inside `<body>` — the phenotype container established yesterday. The boilerplate
+is the house; today's elements are the furniture.
+
+**Day 57 (Elements & Tags):** Introduced semantic HTML as a principle. Today
+applied it concretely — `<strong>` over bold styling, `<em>` over italic
+styling, `<ol>` over `<ul>` when sequence matters. The principle met its
+first real practice.
