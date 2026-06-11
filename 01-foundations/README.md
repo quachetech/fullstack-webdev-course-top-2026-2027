@@ -2,7 +2,7 @@
 
 **Challenge Start Date:** 28 March 2026  
 **Challenge End Date:** 5 October 2026  
-**Current Streak:** 🔥 76 days
+**Current Streak:** 🔥 77 days
 
 ---
 
@@ -49,6 +49,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 062 | 28/05/26 | Working With Text | ✅(./concept/working-with-text.md) | - | ✅ |
 | 062 | 28/05/26 | Lists | ✅(./concept/lists.md) | - | ✅ |
 | 076 | 11/06/26 | Links & Images | ✅(./concept/links-images.md) | - | ✅ |
+| 076 | 11/06/26 | Commit Messages | ✅(./concept/commit-messages.md) | - | ✅ |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -84,16 +85,18 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Working With Text](./concepts/working-with-text.md)
 - [Lists](./concepts/lists.md)
 - [Links & Images](./concepts/links-images.md)
+- [Commit Messages](./concepts/commit-messages.md)
 - [...](./concepts/xxx.md)
 
 ---
 
 ## 🛠️ Projects Built
 
-1. **[Landing Page](./projects/01-landing-page/)** - HTML/CSS fundamentals
-2. **[Rock Paper Scissors](./projects/02-rock-paper-scissors/)** - JavaScript logic
-3. **[Etch-a-Sketch](./projects/03-etch-a-sketch/)** - DOM manipulation
-4. *(These are placeholders to be updated once projects are available)*
+1. **[Recipes](./projects/odin-recipes/)** -HTML Foundations
+2. **[Landing Page](./projects/01-landing-page/)** - HTML/CSS fundamentals
+3. **[Rock Paper Scissors](./projects/02-rock-paper-scissors/)** - JavaScript logic
+4. **[Etch-a-Sketch](./projects/03-etch-a-sketch/)** - DOM manipulation
+5. *(These are placeholders to be updated once projects are available)*
 
 ---
 
