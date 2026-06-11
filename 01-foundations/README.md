@@ -2,7 +2,7 @@
 
 **Challenge Start Date:** 28 March 2026  
 **Challenge End Date:** 5 October 2026  
-**Current Streak:** 🔥 57 days
+**Current Streak:** 🔥 76 days
 
 ---
 
@@ -48,6 +48,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 | 061 | 27/05/26 | HTML Boilerplate | ✅(./concept/html-boilerplate.md) | ✅(./practicals/html/html-boilerplate/index.html) | ✅ |
 | 062 | 28/05/26 | Working With Text | ✅(./concept/working-with-text.md) | - | ✅ |
 | 062 | 28/05/26 | Lists | ✅(./concept/lists.md) | - | ✅ |
+| 076 | 11/06/26 | Links & Images | ✅(./concept/links-images.md) | - | ✅ |
 | xxx | ... | ... | ... | ... | ... |
 
 **Legend:**
@@ -82,6 +83,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [HTML Boilerplate](./concepts/html-boilerplate.md)
 - [Working With Text](./concepts/working-with-text.md)
 - [Lists](./concepts/lists.md)
+- [Links & Images](./concepts/links-images.md)
 - [...](./concepts/xxx.md)
 
 ---
