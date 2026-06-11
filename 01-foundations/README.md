@@ -85,6 +85,7 @@ To build the technical foundation for my Biorhythmic Productivity Systems (BPS) 
 - [Working With Text](./concepts/working-with-text.md)
 - [Lists](./concepts/lists.md)
 - [Links & Images](./concepts/links-images.md)
+- [Practice Note: Links & Images](./concepts/links-practice-note.md)
 - [Commit Messages](./concepts/commit-messages.md)
 - [...](./concepts/xxx.md)
 
